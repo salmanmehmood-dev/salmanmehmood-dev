@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a **detail-oriented BSCS student (7th semester) at FAST-NUCES** with a passion for building scalable, intelligent, and user-friendly software.  
+I'm a **detail-oriented BSCS student (8th semester) at FAST-NUCES** with a passion for building scalable, intelligent, and user-friendly software.  
 I specialize in **full-stack web development, Python-based backends/ML, and cross-platform mobile apps**.  
 I love tackling real-world problems with code, collaborating in teams, and learning new technologies.
 
